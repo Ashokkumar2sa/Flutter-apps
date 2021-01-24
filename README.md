@@ -1,6 +1,8 @@
 # Flutter-apps-
  Flutter apps made by using android studio 
  
+ #Quizller An basic app that display question and user have to choose the answer . And we display whether the user has got right answer or not
+ 
  #Xylophone in this we learn to use audio files in our apps and include the packages avaiilable 
  
  #dice app diplaying a dice which gives shows a random number when pressed. 
